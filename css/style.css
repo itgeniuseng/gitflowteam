@@ -1,0 +1,27 @@
+body {
+    background-color: deepskyblue;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    text-align: center;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+    background-color: brown;
+    font-size: 20px;
+    margin: 2px;
+    padding: 5px;
+    display: inline-block;
+}
